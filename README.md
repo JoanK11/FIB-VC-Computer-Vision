@@ -2,6 +2,8 @@
 
 Welcome to the FIB-VC-Computer-Vision repository! This project is the culmination of work done in the Computer Vision subject at the Barcelona School of Informatics (FIB), focusing on advanced tracking and detection techniques in Computer Vision.
 
+![Tracking Demo](assets/tracking_demo.gif)
+
 ## Introduction
 
 In this course, we dived deep into the world of Computer Vision, exploring and implementing a range of tracking and detection algorithms. The highlight of our learning journey was a comprehensive project that involved researching models and algorithms related to Computer Vision tracking and detection. Our goal was to understand and implement the methods discussed in scientific research papers, focusing on the "Track Long and Prosper" (TLP) dataset—a long-term visual object tracking benchmark.
